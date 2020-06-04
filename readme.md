@@ -2,7 +2,7 @@
 Developing a phone Book web App using MERN stack .
 
 # Deploy
-HeroKu Link : https://prasantaphonebookwebapp.herokuapp.com/
+HeroKu 
 
 # Function Performed
 - Add a Contact
